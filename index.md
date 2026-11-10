@@ -1,8 +1,3 @@
-
----
-layout: default
----
-
 **15-618: Parallel Computer Architecture and Programming**
 
 **Authors:** Leo Jiang
@@ -13,7 +8,7 @@ layout: default
 
 ## Project Documents
 
-[Project Proposal (PDF)](proposal.pdf)
+[Project Proposal (PDF)](project_prop.pdf)
 
 Milestone Report — Coming Soon
 
