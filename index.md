@@ -16,7 +16,7 @@ Final Report — Coming Soon
 
 ## Implementation
 
-Code: https://github.com/leojiang12/gpu-mpm
+The code can be found [here](https://github.com/leojiang12/gpu-mpm).
 
 ## Results
 
