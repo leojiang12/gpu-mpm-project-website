@@ -10,7 +10,7 @@ This project aims to implement a GPU-accelerated implicit Material Point Method 
 
 [Project Proposal (PDF)](project_prop.pdf)
 
-Milestone Report — Coming Soon
+[Milestone Report (PDF)](milestone_report.pdf)
 
 Final Report — Coming Soon
 
